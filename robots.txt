@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://macarenamusa48.github.io/sitemap.xml

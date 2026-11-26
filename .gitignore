@@ -1,0 +1,27 @@
+# Keep unpublished source files and local configuration out of the repository.
+/*
+!/.gitignore
+!/.nojekyll
+!/README.md
+!/index.html
+!/robots.txt
+!/sitemap.xml
+!/assets/
+/assets/*
+!/assets/css/
+!/assets/js/
+!/assets/img/
+!/assets/pdf/
+/assets/css/*
+!/assets/css/styles.css
+/assets/js/*
+!/assets/js/main.js
+/assets/img/*
+!/assets/img/favicon.svg
+!/assets/img/matedoc.png
+!/assets/img/profile.png
+!/assets/img/certificates/
+/assets/img/certificates/*
+!/assets/img/certificates/decipher-idp-foundation.png
+/assets/pdf/*
+!/assets/pdf/Macarena_Musa_CV.pdf
